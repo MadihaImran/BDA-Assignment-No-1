@@ -1,3 +1,5 @@
+https://www.loom.com/share/8848436f52b44cf28536138910bfe22d
+
 Big Data Analytics Assignment No. 1 
 
 docker -v
