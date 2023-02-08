@@ -4,9 +4,9 @@ docker -v
 
 docker run hello-world
 
-docker run docker /whalesay cowsay boo
+docker run docker/whalesay cowsay boo
 
-docker run docker /whalesay cowsay tweedle
+docker run docker/whalesay cowsay tweedle
 
 docker run nginx
 
@@ -19,3 +19,9 @@ docker stop ID/NAME
 docker images
 
 docker rmi
+
+docker search MySQL
+
+docker ps --all
+
+Docker network 
