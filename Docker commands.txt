@@ -1,0 +1,21 @@
+Big Data Analytics Assignment No. 1 
+
+docker -v
+
+docker run hello-world
+
+docker run docker /whalesay cowsay boo
+
+docker run docker /whalesay cowsay tweedle
+
+docker run nginx
+
+docker ps
+
+docker ps-a
+
+docker stop ID/NAME
+
+docker images
+
+docker rmi
